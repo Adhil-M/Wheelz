@@ -1,4 +1,4 @@
-# veg_app
+# Wheelz
 
 A new Flutter application.
 
